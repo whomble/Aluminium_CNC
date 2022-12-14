@@ -4,9 +4,10 @@ This cnc router is my third itteration, the two previous versions was only able 
 This version is capable of cutting any soft metal (aluminuim, copper, brass even silver) easly.
 The total cost including the salvaged part from my previous CNC is around 300€, if you want to replicate the project the cost can change depending of what materials you have availlable.
 
-The design is based on 45*45mm aluminium extrusions that i've recovered from the waste disposal. It is powered by 4 Nema 17 stepper motors from my previous CNC and an arduino cnc shield V3.
+The design is based on 45 * 45mm aluminium extrusions that i've recovered from the waste disposal. It is powered by 4 Nema 17 stepper motors from my previous CNC and an arduino cnc shield V3.
 
 Depending of your supplys the total cost can varry from **300 to 450€** considering you have all the required tools
+From the conception to the firsts good cuts it took me around **80h** of work (mistakes includes)
 
 # Part list
 
@@ -26,7 +27,7 @@ Depending of your supplys the total cost can varry from **300 to 450€** consid
 | Ball bearing KFL08 | 4 | 6€ |
 | 3W warm white LED | 2 | 1€ |
 | Nema 17 0.59N.m at least | 4 | 50€ |
-| 5*8 aluminium coupler | 4 | 4€ |
+| 5 * 8 aluminium coupler | 4 | 4€ |
 | GT2 20 to 60 pulley kit with 200mm belt | 1 | 4€ |
 | 500W spindle with controller | 1 | 80€ |
 | M3 insert for plastic | 50 | 3€ |
@@ -36,7 +37,8 @@ Depending of your supplys the total cost can varry from **300 to 450€** consid
 | Total | a lot | 322€ |
 
 In addition you need to find something to build the base on like aluminium extrusion, if you can found from second hand it can cost something like 40€ otherwise it's more like 80€. Even if it looks stiff 2020 extrusion from 3D printer can bend en vibrate with this type of machine so I'll recommand to use at least 30mm thick aluminuim extrusion.
-You will also need 8mm thick aluminium plate about 200*200mm again if you can found some from second hand it can be really cheap.
+You will also need 8mm thick aluminium plate about 200 * 200mm again if you can found some from second hand it can be really cheap.
+T nut for aluminium extrusion could be added to the list (to fix the linear rails) but it's quite expensive and there isn't much load in this direction so i've 3D printed my own and add m3 inserts
 
 Some more commun supply are also needed like heat shrink tube, solder, wires (I use wires from old RJ45 cable it can handle something like 5A without a problem, its free nd easly accessible).
 
@@ -58,5 +60,8 @@ A lots of tools are needed to work properly:
 - deburr tool
 
 
+# Conception
 
+
+# Cutting, drilling, tapping
  
