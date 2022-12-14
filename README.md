@@ -34,7 +34,8 @@ From the conception to the firsts good cuts it took me around **80h** of work (m
 | M4 wood insert | 50 | 2€ |
 | 10mm cable sleeve | 5m | 5€ |
 | 12V 150W power supply | 1 | 15€ |
-| Total | a lot | 322€ |
+| Lithium grease | 1 | 5€ |
+| Total | a lot | 327€ |
 
 In addition you need to find something to build the base on like aluminium extrusion, if you can found from second hand it can cost something like 40€ otherwise it's more like 80€. Even if it looks stiff 2020 extrusion from 3D printer can bend en vibrate with this type of machine so I'll recommand to use at least 30mm thick aluminuim extrusion.
 You will also need 8mm thick aluminium plate about 200 * 200mm again if you can found some from second hand it can be really cheap.
@@ -65,3 +66,18 @@ A lots of tools are needed to work properly:
 
 # Cutting, drilling, tapping
  
+# 3D printed parts
+
+# Assembly
+
+# Wirring
+
+# Lights
+
+# Ajustements
+
+# Cutting parameters
+
+# Results
+
+# Microlubrification
