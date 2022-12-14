@@ -6,6 +6,8 @@ The total cost including the salvaged part from my previous CNC is around 300€
 
 The design is based on 45*45mm aluminium extrusions that i've recovered from the waste disposal. It is powered by 4 Nema 17 stepper motors from my previous CNC and an arduino cnc shield V3.
 
+Depending of your supplys the total cost can varry from **300 to 450€** considering you have all the required tools
+
 # Part list
 
 
@@ -52,3 +54,9 @@ A lots of tools are needed to work properly:
 - Center punch
 - Marker for metal
 - Hammer, clamps, screw drivers others hand tools
+- 3D printer
+- deburr tool
+
+
+
+ 
