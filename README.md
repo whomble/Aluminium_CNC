@@ -82,13 +82,34 @@ A lots of tools are needed to work properly:
 
 # Tool path
 
-The easiest software to begin is fusion 360 even if you are using solidworks or something else teh toolpath generation is easy to understand with a good definition for eatch settings.
-
-
-
 At the beggining the best way to learn is to use commun settings for this type of machine, so I've used the settings from the french webbsite [CNC fraises](https://www.cncfraises.fr/cloud/ParametresDeCoupe_CncFraises_V1.6.pdf)
 Google translate can be really useful, otherwise here is a quick recap:
-You can change 3 mains parameters, advance speed, cutting deph, and spindle speed. Since my spindle doesn't have an accurate control of the speed I just go full throttle which is 12000 rpm and I addapt the others settings.
+
+The easiest software to begin is fusion 360 even if you are using solidworks or something else teh toolpath generation is easy to understand with a good definition for eatch settings.
+
+First of all you need to choose what tool to use to cut the path. For a hobby CNC a verry versatile tool is a 1 tooth 2 or 3mm cutter like this one.
+<img src="img/tool.JPG"  width="400">
+
+This is the standard version but there is a large variety of surface treatment like TiN or DLC, the standard version is ok to begin with because it's cheap so it isn't that bad if one gets broke but the DLC treatment seems to add longevity and will have a higher cutting speed.
+
+So once you have your tool you need to know his cutting speed in m/min, it represents the maximum tangantial speed. Most of the cutter like the one above is rated for something like 100-150m/min (depending of the matirial) you can go higher but it can reduce the tool's lifetime.
+Once you know the cutting speed and the diamater of the tool you can calculate the spindle speed.
+
+For a 3mm tool: `(1000*120)/(3*pi) = 12700rpm`
+
+Then choose the closest value your speedle can achieve 12000 for me
+
+The next step is to choose the appropriate feedrate as you can see on the chart bellow an advance per turn of 0.01mm/turn is good for aluminium for a 3mm tool. 
+In my opinion you can go higher as long as the noise is smooth (I use 0.015 in general for aluminium).
+All the different cutting speed for different materials are also listed in this chart.
+
+
+<img src="img/chart1.JPG"  width="450">
+
+Once you have theeses settings you just need to enter the values in fusion 360 and it will set the appropriate feedrate. 
+Depending of the material it can set it to a value that the machine can't achieve (500mm/min max for me) if so, just decrease the speed of the spindle to match the value.
+
+** The most important thing to consider is the advance per turn if you go too fast it can break the tool or twist the machine, if you go too slow the tool will rub on the material without cutting so eather the tool broke or the material met or catch fire **
 
 
 # Results
