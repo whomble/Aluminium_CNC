@@ -104,9 +104,9 @@ In my opinion you can go higher as long as the noise is smooth (I use 0.015 in g
 All the different cutting speed for different materials are also listed in this chart.
 
 
-<img src="img/chart1.JPG"  width="450">
+<img src="img/chart1.JPG"  width="700">
 
-Once you have theeses settings you just need to enter the values in fusion 360 and it will set the appropriate feedrate. 
+Once you have theeses settings you just need to enter the values in fusion 360 and it will set the appropriate feedrate.
 Depending of the material it can set it to a value that the machine can't achieve (500mm/min max for me) if so, just decrease the speed of the spindle to match the value.
 
 **The most important thing to consider is the advance per turn if you go too fast it can break the tool or twist the machine, if you go too slow the tool will rub on the material without cutting so eather the tool broke or the material met or catch fire**
