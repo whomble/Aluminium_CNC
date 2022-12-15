@@ -9,6 +9,10 @@ The design is based on 45 * 45mm aluminium extrusions that i've recovered from t
 Depending of your supplys the total cost can varry from **300 to 450€** considering you have all the required tools
 From the conception to the firsts good cuts it took me around **80h** of work (mistakes includes)
 
+The results before machining the new Z axis:
+
+<img src="img/IMG_20220526_171012.jpg"  width="850">
+
 # Part list
 
 
