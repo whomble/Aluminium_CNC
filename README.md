@@ -90,9 +90,34 @@ You can change 3 mains parameters, advance speed, cutting deph, and spindle spee
 # Results
 ## Wood
 ## Aluminium
+
+Here is the Z axis (replacment for the 3D printed parts) and 8 holder which I use to constrain my parts when machining
+
+
+<img src="img/IMG_20220507_124520.jpg"  width="450"><img src="img/IMG_20220526_163049.jpg"  width="450">
+<img src="img/IMG_20220610_194804.jpg"  width="450"><img src="img/IMG_20220626_103532.jpg"  width="450">
+
+Here is a 100mm turbine I've machined for another project it took a while, 15h for 15mm deeph on one side 3mm on the other the part wasn't enougth constrained so the blades aren't perfect but it's good enought for me.
+
+<img src="img/IMG_20221201_151606.jpg"  width="450"><img src="img/IMG_20221201_150049.jpg"  width="450">
+
 ## Copper
+
+This is a small support I design to handle small PT1000 thermal sensors for cryogenic applications, copper is often the best option with really low temperatures.
+As for the previous results I've followed the charts above 
+
+<img src="img/IMG_20220807_165934.jpg"  width="450">
+
 ## Silver
 
-<img src="img/VID_20220711_195236.mp4"  width="450">
+This is result is from my second attend of engraving a metal (first one was on brass with my previous cnc)
+Engraving metal is a little bit tricky because the tool can broke in an instant.
+You need to go slowly with small deeph, for this result the advance was at 100mm/min and deepth at 0.05mm.
+Silver is verry soft so it can stick to the cutting tool so make sure tu lubricate while cutting (water is ok for silver)
+
+<img src="img/IMG_20220711_200040.jpg"  width="450">
+
+
+## Brass
 
 # Microlubrification
