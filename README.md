@@ -80,11 +80,14 @@ A lots of tools are needed to work properly:
 
 # Movement, origin, steps/mm
 
+# Probe
+
 # Lights
 
 # Ajustements
 
-# Settings
+# First cut
+## Settings
 
 At the beggining the best way to learn is to use commun settings for this type of machine, so I've used the settings from the french webbsite [CNC fraises](https://www.cncfraises.fr/cloud/ParametresDeCoupe_CncFraises_V1.6.pdf)
 Google translate can be really useful, otherwise here is a quick recap:
@@ -115,7 +118,7 @@ Depending of the material it can set it to a value that the machine can't achiev
 
 **The most important thing to consider is the advance per turn if you go too fast it can break the tool or twist the machine, if you go too slow the tool will rub on the material without cutting so eather the tool broke or the material met or catch fire**
 
-# Tool path
+## Tool path
 
 # Results
 ## Wood
