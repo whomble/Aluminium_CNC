@@ -76,8 +76,23 @@ A lots of tools are needed to work properly:
 
 # Ajustements
 
-# Cutting parameters
+# Tool path
+
+The easiest software to begin is fusion 360 even if you are using solidworks or something else teh toolpath generation is easy to understand with a good definition for eatch settings.
+
+
+
+At the beggining the best way to learn is to use commun settings for this type of machine, so I've used the settings from the french webbsite [CNC fraises](https://www.cncfraises.fr/cloud/ParametresDeCoupe_CncFraises_V1.6.pdf)
+Google translate can be really useful, otherwise here is a quick recap:
+You can change 3 mains parameters, advance speed, cutting deph, and spindle speed. Since my spindle doesn't have an accurate control of the speed I just go full throttle which is 12000 rpm and I addapt the others settings.
+
 
 # Results
+## Wood
+## Aluminium
+## Copper
+## Silver
+
+<img src="img/VID_20220711_195236.mp4"  width="450">
 
 # Microlubrification
